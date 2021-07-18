@@ -1,4 +1,4 @@
-# moodify-learning
+# moodify-learning assignment 1
 QUESTION- Virus Spread Simulation (Basic)
 Create a two-dimensional matrix of dimention 100 * 150 containing 15,000 entries with value 0. Set the entry (50,75) to be 1.
 
